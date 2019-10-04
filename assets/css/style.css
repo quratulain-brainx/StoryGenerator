@@ -1,0 +1,19 @@
+body {
+    font-family: helvetica, sans-serif;
+}
+label {
+    font-weight: bold;
+}
+input[type="text"] {
+    padding: 5px;
+}
+.story {
+    background: #fafafa;
+    color: #5E2612;
+    visibility: hidden;
+    border: 1px solid #cacaca;
+}
+.form-container {
+    width: fit-content;
+    margin: auto;
+}
